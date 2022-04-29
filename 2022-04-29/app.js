@@ -18,3 +18,5 @@ function maskify(cc) {
         return cc;
     }
 }
+
+//TEST CASES
